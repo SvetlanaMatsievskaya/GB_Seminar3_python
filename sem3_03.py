@@ -13,4 +13,4 @@ for i in my_list:
         min = i - int(i)
     if (i - int(i)) >= max:
         max = i - int(i)
-print(round(max-min,2))
+print(max-min)
